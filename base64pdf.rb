@@ -9,11 +9,11 @@ class Base64pdf < Formula
     when /mswin|msys|mingw|cygwin|bccwin|wince|emc/
       :windows
     when /darwin|mac os/
-      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_v0.0.1_darwin_amd64.zip"
-      sha256 "2dcd41a6df212da2f11a4ba0e4089e2070f52c62fcaa9de286f3ada393c2af7c"
+      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_0.0.1_darwin_amd64.zip"
+      sha256 "4c7dca3ca617c58628c0c2b8dfc1bb9ceb9388eb0087ab804af4e55cc69206b3"
     when /linux/
-      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_v0.0.1_linux_amd64.tar.gz"
-      sha256 "28ab700401920b9db30fe7d6721c5103a73c769802d2591dee8df015540917e9"
+      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_0.0.1_linux_amd64.tar.gz"
+      sha256 "fbcbc4f6d4ec9014be4794d44990602396feca74cad738d32ac252f49a20fa14"
     when /solaris|bsd/
       :unix
     else
@@ -24,11 +24,11 @@ class Base64pdf < Formula
     when /mswin|msys|mingw|cygwin|bccwin|wince|emc/
       :windows
     when /darwin|mac os/
-      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_v0.0.1_darwin_386.zip"
-      sha256 "889111c5dc01b51b0e25a0221409a2ddcf9d6f101ca7d36482932c3411c74e7a"
+      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_0.0.1_darwin_386.zip"
+      sha256 "e04892600c7b8f09a36a5bc7149eb141ea03501d5f715652f2dac8bd1c15d296"
     when /linux/
-      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_v0.0.1_linux_386.tar.gz"
-      sha256 "44d950c7f0e0a7bd281ca529b39bda85140857d94ce85f1020fad39b73534644"
+      url "https://github.com/vimukthi-git/base64pdf/releases/download/v0.0.1/base64pdf_0.0.1_linux_386.tar.gz"
+      sha256 "d25f3894d9e9f1eb6a4290a4a2f25021180ce7b74c68b8f890fa3366dc38e20f"
     when /solaris|bsd/
       :unix
     else
